@@ -1,0 +1,7 @@
+essentia
+audioread
+librosa
+numba==0.48.0
+numpy
+PySoundFile
+scipy
