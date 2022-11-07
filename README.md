@@ -1,3 +1,7 @@
+## Abstract
+
+Computational musicology has seen many advances in the recent past, and researchers have developed different types of tools for analyzing sound, especially with music at the center of attention. These techniques are aimed at western music and somewhat fail to capture the aesthetic of Indian classical music. In this article, we present Swaragram, a feature extraction technique inspired by the Chromagram for the spectral analysis of Indian classical music. We have released our Python implementation of the Swaragram under the GNU-GPLv3 license [1] to help learners of Indian music and encouraging other researchers to use it, change it as they need. Finally, we have applied this tool showing its usefulness in predicting raga in Indian classical music.
+
 ## Modules
 
 	core: Core funtionality of swaragram
